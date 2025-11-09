@@ -1,3 +1,5 @@
+**DISTRICT COURT AMRITSAR DAILY RUNNER** – bail reduction, urgent stay, nakal same-day, cheque bounce, eviction, succession, family court, MACT, consumer. Physical presence every day. See PINKMAN-COURT-SERVICES.txt + case-studies-court/
+
 # PinkMan Government Services India 2025
 WhatsApp +91 99450 62063 → reply in 1 hour
 Site: https://yopinkman.com
