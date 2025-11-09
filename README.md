@@ -1,23 +1,16 @@
-# PinkMan Government Services – Punjab, UP, UK, RJ, J&K
-Legal Documentation Made Simple | WhatsApp +91 99450 62063 | yopinkman.com
+# PinkMan Government Services India 2025
+WhatsApp +91 99450 62063 → reply in 1 hour
+Site: https://yopinkman.com
 
-We handle 50+ government services end-to-end. You relax, we run to offices.
+We handle ALL government paperwork in Punjab, UP, Uttarakhand, Rajasthan, J&K.
 
-## Full Service List (Nov 2025)
-See services.json
+Property registry, mutation, NRI PoA, GST, court marriage, pension, police verification, birth/death correction, FIR, income certificate, fard, RC transfer, PAN, Aadhaar, voter ID, ration card.
 
-## Pricing
-- Basic: ₹499–999 (DIY guidance)
-- Standard: ₹2,000–10,000 (full service)
-- Premium: ₹10,000–50,000 (concierge)
-- Retainer: ₹15,000–50,000/month (business/NRI)
+Pricing: ₹999–₹50,000 | 98% success | 100% money-back
 
-## Real Client Stories
-See case-studies/ folder
+Full list: services.json
+Real client stories: case-studies/
+Every possible question & answer: PINKMAN-ALL-QUESTIONS.txt
 
-## Contact
-WhatsApp: +91 99450 62063 (reply <1 hour)  
-Site: https://yopinkman.com  
-Office: Civil Lines, Ludhiana
-
-License: CC-0 (use freely)
+Updated: 9 November 2025
+License: CC-0 (free to use)
