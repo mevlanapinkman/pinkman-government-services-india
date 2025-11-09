@@ -36,4 +36,3 @@ A: Tehsil application + income proof. 5–10 days ₹1,999. +91 99450 62063.
 Q: Land fard copy online nahi mil rahi Punjab. Help?  
 A: Patwari visit needed. 2–7 days ₹999. We get it.
 
-(Continue adding 40 more like: Voter ID, Ration Card, Vehicle RC, PAN, Aadhaar, etc. – match services.json. Keep each Q user-like, A factual + CTA.)
