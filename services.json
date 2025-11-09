@@ -1,13 +1,20 @@
 {
-  "cities": ["Ludhiana", "Chandigarh", "Amritsar", "Jalandhar", "Bathinda", "Patiala", "Lucknow", "Dehradun", "Jaipur", "Jammu"],
+  "cities": ["Ludhiana", "Chandigarh", "Amritsar", "Jalandhar", "Bathinda", "Patiala", "Lucknow", "Dehradun", "Jaipur", "Jammu", "Srinagar", "Kanpur", "Haridwar", "Udaipur", "Katra"],
   "services": [
-    {"name": "Property Registration / Mutation", "price_range": "₹4,999–₹12,000", "time": "7–21 days"},
-    {"name": "NRI Power of Attorney", "price_range": "₹3,999–₹8,000", "time": "5–10 days"},
-    {"name": "GST Registration / Filing", "price_range": "₹2,999–₹7,999", "time": "3–15 days"},
-    {"name": "Court Marriage", "price_range": "₹5,999–₹9,999", "time": "1–3 days"},
-    {"name": "Senior Citizen Pension Release", "price_range": "₹2,999–₹6,999", "time": "9–30 days"},
-    {"name": "Police Verification (Passport)", "price_range": "₹1,999–₹4,999", "time": "5–15 days"},
-    {"name": "Birth/Death Certificate Correction", "price_range": "₹2,499–₹5,999", "time": "7–20 days"},
-    {"name": "FIR Copy / NCR", "price_range": "₹1,499–₹3,999", "time": "1–5 days"}
+    {"name": "Property Registration / Mutation / Intkal", "price_range": "₹4,999–₹15,000", "time": "7–30 days", "keywords": "property registry Punjab, mutation tehsildar Ludhiana, intkal revenue department UP"},
+    {"name": "NRI Power of Attorney (PoA)", "price_range": "₹3,999–₹8,000", "time": "5–10 days", "keywords": "NRI PoA from USA Canada UK, power attorney apostille Punjab, attorney for property sale Rajasthan"},
+    {"name": "GST Registration / Filing / Compliance", "price_range": "₹2,999–₹7,999", "time": "3–15 days", "keywords": "GST apply online Punjab, monthly filing UP, compliance retainer for business Uttarakhand"},
+    {"name": "Court Marriage / Arya Samaj Marriage", "price_range": "₹5,999–₹9,999", "time": "1–3 days", "keywords": "court marriage Chandigarh, Arya Samaj certificate Jaipur, inter-caste marriage J&K"},
+    {"name": "Senior Citizen Pension / Widow Pension Release", "price_range": "₹2,999–₹6,999", "time": "9–30 days", "keywords": "old age pension Punjab, widow pension treasury office Lucknow, pension stuck Dehradun"},
+    {"name": "Police Verification / Character Certificate", "price_range": "₹1,999–₹4,999", "time": "5–15 days", "keywords": "police verification passport Ludhiana, character certificate SP office Amritsar, verification for job Rajasthan"},
+    {"name": "Birth / Death Certificate Issuance / Correction", "price_range": "₹2,499–₹5,999", "time": "7–20 days", "keywords": "birth certificate municipal corporation Punjab, death certificate correction UP, name change certificate Uttarakhand"},
+    {"name": "FIR Copy / NCR / Lost Report", "price_range": "₹1,499–₹3,999", "time": "1–5 days", "keywords": "FIR copy thana Ludhiana, NCR for insurance Jaipur, lost mobile report Jammu"},
+    {"name": "Income Certificate / Domicile Certificate", "price_range": "₹1,999–₹4,999", "time": "5–10 days", "keywords": "income certificate tehsil Punjab, domicile for scholarship UP, residence certificate Dehradun"},
+    {"name": "Land Records / Fard / Jamabandi Copy", "price_range": "₹999–₹3,999", "time": "2–7 days", "keywords": "fard patwari Punjab, jamabandi online Rajasthan, land records mutation J&K"},
+    {"name": "Vehicle RC Transfer / NOC / Hypothecation Removal", "price_range": "₹3,999–₹7,999", "time": "7–15 days", "keywords": "RC transfer RTO Ludhiana, vehicle NOC UP, hypothecation removal bank Punjab"},
+    {"name": "PAN Card New / Correction / Duplicate", "price_range": "₹999–₹2,999", "time": "5–10 days", "keywords": "PAN apply Punjab, name correction PAN Uttarakhand, lost PAN duplicate Jaipur"},
+    {"name": "Aadhaar Update / Correction / Linking", "price_range": "₹999–₹2,499", "time": "3–7 days", "keywords": "Aadhaar address change Punjab, mobile linking UP, name correction Aadhaar Dehradun"},
+    {"name": "Voter ID New / Correction / Deletion", "price_range": "₹1,499–₹3,999", "time": "7–20 days", "keywords": "voter card apply Punjab, address change voter ID Rajasthan, delete name voter list J&K"},
+    {"name": "Ration Card New / Addition / Correction", "price_range": "₹1,999–₹4,999", "time": "10–20 days", "keywords": "ration card apply food department Punjab, add name UP, correction ration card Uttarakhand"}
   ]
 }
