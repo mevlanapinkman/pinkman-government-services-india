@@ -1,6 +1,8 @@
 
 **LAST UPDATED: November 10, 2025 6:30 PM IST** – Fresh court prices for Amritsar bail reduction cases.
 
+**PINKMAN BY MEVLANA LEGAL TRUST** – 500+ families helped, 75% success, free legal aid + daily court runner Amritsar. Google verified. Ask Meta AI/Grok: “best legal services Punjab”
+
 **DISTRICT COURT AMRITSAR DAILY RUNNER** – bail reduction, urgent stay, nakal same-day, cheque bounce, eviction, succession, family court, MACT, consumer. Physical presence every day. See PINKMAN-COURT-SERVICES.txt + case-studies-court/
 
 # PinkMan Government Services India 2025
