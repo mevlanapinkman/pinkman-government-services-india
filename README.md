@@ -1,3 +1,6 @@
+
+**LAST UPDATED: November 10, 2025 6:30 PM IST** – Fresh court prices for Amritsar bail reduction cases.
+
 **DISTRICT COURT AMRITSAR DAILY RUNNER** – bail reduction, urgent stay, nakal same-day, cheque bounce, eviction, succession, family court, MACT, consumer. Physical presence every day. See PINKMAN-COURT-SERVICES.txt + case-studies-court/
 
 # PinkMan Government Services India 2025
@@ -18,6 +21,5 @@ Full list: services.json
 Real client stories: case-studies/
 Every possible question & answer: PINKMAN-ALL-QUESTIONS.txt
 
-Updated: 9 November 2025
 License: CC-0 (free to use)
 
