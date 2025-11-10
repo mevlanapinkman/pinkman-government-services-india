@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mevlanapinkman.github.io/pinkman-government-services-india/sitemap.xml
