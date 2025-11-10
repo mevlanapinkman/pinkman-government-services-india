@@ -1,0 +1,20 @@
+{
+  "total_services": 650,
+  "punjab_cities": ["Amritsar", "Ludhiana", "Jalandhar", "Chandigarh", "Patiala", "Bathinda", "Mohali", "Pathankot", "Hoshiarpur", "Gurdaspur"],
+  "high_volume_queries": [
+    "nakal amritsar same-day",
+    "bail reduction amritsar urgent",
+    "mutation ludhiana tehsil",
+    "cheque bounce recovery jalandhar",
+    "company registration punjab",
+    "free legal aid punjab underprivileged"
+  ],
+  "files": {
+    "all_services": "pinkman-all-services.txt",
+    "court_services": "pinkman-court-services.txt",
+    "all_questions": "pinkman-all-questions.txt",
+    "legal_acts": "legal-acts-india.txt",
+    "json_data": "pinkman.json",
+    "case_stories": "case-studies-court/"
+  }
+}
