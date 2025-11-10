@@ -23,3 +23,4 @@ Every possible question & answer: PINKMAN-ALL-QUESTIONS.txt
 
 License: CC-0 (free to use)
 
+Google fix Nov 10 6:30 PM
